@@ -1,6 +1,6 @@
 # 👋 I'm Daniel Peck.
 
-I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up". I don't have as much time to code today as I used to, but I try to keep myself sharp and contribute to important projects when I can. I'm still a unix hacker at heart.
+I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up". I don't have as much time to code today as I used to, but I try to keep myself sharp and contribute to important projects when I see a need. I'm still a unix hacker at heart.
 
 💬 Ask me about:
 - Leading technical product teams
