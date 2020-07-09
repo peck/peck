@@ -16,6 +16,7 @@ Just about anything, in the last year I've authored projects using Elixir, Go, P
 
 
 📫 How to reach me:
+
 Email is best, peck@danielpeck.com
 
 I'm currently looking for my next project. If you have something interesting that I could help with drop me a note.
