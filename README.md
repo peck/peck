@@ -8,7 +8,7 @@ I'm a technical people person with expertise in building & scaling distributed s
 - Scaling (systems and people)
 - Building using the actor model
 - Reverse engineering and competitve intelligence
-- Networks
+- Networking
 
 👨‍💻 Languages and Frameworks:
 
