@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 I'm Daniel Peck.
+
+## I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up".
+
 
 <!--
 **peck/peck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
