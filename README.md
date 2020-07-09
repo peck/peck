@@ -1,6 +1,6 @@
 # 👋 I'm Daniel Peck.
 
-I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up".
+I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up". I don't have as much time to code today as I used to, but I try to keep myself sharp.
 
 💬 Ask me about:
 - Leading technical product teams
@@ -12,7 +12,7 @@ I'm a technical people person with expertise in building & scaling distributed s
 
 👨‍💻 Languages and Frameworks:
 
-Just about anything, in the last year I've authored projects using Elixir, Go, Python, JavaScript, Ruby, Swift/SwiftUI, and HCL. I pick the best tool given the needs of the project and get it built.
+Just about anything, in the last year I've led and authored projects using Elixir/Erlang, Go, Python, JavaScript, Ruby, Swift/SwiftUI, React-Native, and HCL. I pick the best tool given the needs of the project and get it built.
 
 
 📫 How to reach me:
