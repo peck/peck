@@ -11,10 +11,9 @@ I'm a technical people person with expertise in building & scaling distributed s
 - Networks
 
 👨‍💻 Languages and Frameworks:
-Just about anything, in the last year I've written software using Elixir, Go, Python, JavaScript, Ruby, Swift/SwiftUI, and HCL. Along with that came a whole lot of SQL, HTML, and Sass (CSS) to support it. I pick the best tool given the needs of the project and get it built.
 
-⚡ Fun fact:
-I have a tag on perezhilton from being quoted in an article about search malware
+Just about anything, in the last year I've authored projects using Elixir, Go, Python, JavaScript, Ruby, Swift/SwiftUI, and HCL. I pick the best tool given the needs of the project and get it built.
+
 
 📫 How to reach me:
 Email is best, peck@danielpeck.com
