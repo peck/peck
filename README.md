@@ -12,7 +12,7 @@ I'm a technical people person with expertise in building & scaling distributed s
 
 👨‍💻 Languages and Frameworks:
 
-Just about anything, in the last year I've led and authored projects using Elixir/Erlang, Go, Python, JavaScript, Ruby, Swift/SwiftUI, React-Native, and HCL. I pick the best tool given the needs of the project and get it built. 
+Just about anything, in the last year I've led and authored projects using Elixir/Erlang, Go, Python, JavaScript, Ruby, Swift/SwiftUI, and React-Native. 
 
 
 📚 Must reads:
