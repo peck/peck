@@ -1,14 +1,9 @@
 # 👋 I'm Daniel Peck.
 
-I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up". I don't have as much time to code today as I used to, but I try to keep myself sharp and contribute to important projects when I see a need. I'm still a unix hacker at heart.
+I'm a technical people person with expertise in building & scaling distributed systems and teams. My favorite thing is helping people & organizations "level up". I'm still a unix geek at heart.
 
-💬 Ask me about:
-- Leading technical product teams
-- Designing distributed systems
-- Scaling (systems and people)
-- Building using the actor model
-- Reverse engineering and competitve intelligence
-- Networking
+Please don't hesitate to reach out if there is anything that I can help you with.
+
 
 📚 Must reads:
 - [Making Reliable Distributed Systems in the Presence of Software Errors](https://erlang.org/download/armstrong_thesis_2003.pdf)
